@@ -1,0 +1,15 @@
+SET timestamp=1758830326;
+Call CalPartAndDwgQuantity_new(200324,'M');
+# Time: 2025-09-25T20:01:00.305517Z
+# User@Host: dbapp[dbapp] @ eaCTXVDASW2-31.eclipseautomation.com [10.0.2.253]  Id: 29319
+# Query_time: 99.785374  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 20981
+SET timestamp=1758830327;
+Call CalPartAndDwgQuantity_new(200324,'M');
+# Time: 2025-09-25T20:01:00.305517Z
+# User@Host: dbapp[dbapp] @ eaCTXVDASW2-31.eclipseautomation.com [10.0.2.253]  Id: 29319
+# Query_time: 99.785374  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 20981
+SET timestamp=1758830328;
+Call CalPartAndDwgQuantity_new(200324,'M');
+# Time: 2025-09-25T20:01:00.305517Z
+# User@Host: dbapp[dbapp] @ eaCTXVDASW2-31.eclipseautomation.com [10.0.2.253]  Id: 29319
+# Query_time: 99.785374  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 20981
